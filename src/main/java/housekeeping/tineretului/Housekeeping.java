@@ -1,13 +1,15 @@
 package housekeeping.tineretului;
 
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TineretuluiApplication {
+@EnableAutoConfiguration
+public class Housekeeping {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TineretuluiApplication.class, args);
+		SpringApplication.run(Housekeeping.class, args);
 	}
 
 }
