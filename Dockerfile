@@ -1,5 +1,5 @@
-FROM tomcat:latest
+FROM openjdk:8-jdk-alpine
 
-ADD target/housekeeping.war /usr/local/tomcat/webapps/
-EXPOSE 8080
-CMD ["catalina.sh", "run"]
+ARG JAR_FILE=target/*.jar
+COPY ${JAR_FILE} app.jar
+ENTRYPOINT ["java","-jar","/app.jar"]
