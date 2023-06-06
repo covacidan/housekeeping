@@ -1,0 +1,13 @@
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/controller/IntretinereController.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/service/IntretinereServiceImpl.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/Housekeeping.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/model/IndexApa.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/repository/IndexApaRepository.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/repository/IntretinereRepository.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/dto/IndexTotal.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/service/IndexApaServiceImpl.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/dto/IntretinereRequest.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/service/IndexApaService.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/controller/IndexApaController.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/model/Intretinere.java
+/mnt/prox-share/housekeeping/src/main/java/housekeeping/tineretului/service/IntretinereService.java
